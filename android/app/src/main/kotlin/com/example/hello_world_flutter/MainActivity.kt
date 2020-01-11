@@ -1,4 +1,4 @@
-package com.example.hello_world_flutter
+package com.example.startup_namer
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
